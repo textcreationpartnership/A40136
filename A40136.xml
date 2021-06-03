@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A clear discovery wherein all people may see who hath been true ministers, and sent of Christ, and who hath been false teachers, and hath run, and the Lord never sent them, these hundred of years past with a warning to all those who persecute them who own Christ come in the flesh, and for conscience sake cannot pay the tenth of their fruits and labours to a changeable priesthood with a letter to all Friends in the truth : also a letter to all ministers whose mouths are opened to preach at the command of men, and to all those whose mouths are stopped, and give over preaching at the command of men.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40136</idno><idno type="EEBO-CITATION">12911873</idno>
+  <idno type="VID">95341</idno>
+  <idno type="EEBO-PROQUEST">2248543932</idno>
+  
+            <idno type="STC">Wing F1763</idno>
+            <idno type="STC">ESTC R6840</idno>
+            <idno type="OCLC">12911873</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40136)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95341)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A clear discovery wherein all people may see who hath been true ministers, and sent of Christ, and who hath been false teachers, and hath run, and the Lord never sent them, these hundred of years past with a warning to all those who persecute them who own Christ come in the flesh, and for conscience sake cannot pay the tenth of their fruits and labours to a changeable priesthood with a letter to all Friends in the truth : also a letter to all ministers whose mouths are opened to preach at the command of men, and to all those whose mouths are stopped, and give over preaching at the command of men.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Attributed to George Fox. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Great Britain.</term>
+               <term type="topical_term">Dissenters, Religious --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95341:1"/>
+            <pb facs="tcp:95341:1"/>
+            <p>A Clear DISCOVERY Wherein all People may see Who hath been true Ministers, and sent of Christ, and who hath been false Teachers, and hath run, and the Lord never sent them, these hundred of yeares last past. WITH A WARNING TO ALL THOSE Who persecute them who own Christ come in the flesh, and for Conscience sake cannot pay the tenth of their fruits and labours to a changeable Priesthood. WITH A LETTER TO ALL Friends in the Truth. ALSO A Letter to all Ministers whose mouths are opened to preach at the command of men, and to all those whose mouths are stopped, and give over preaching at the com<g ref="char:EOLhyphen"/>mand of men:</p>
+            <p>Printed in the Year 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="2" facs="tcp:95341:2"/>
+            <head>A clear Discovery, wherein all people may see who hath been true Ministers, and sent of Christ, and who hath been false Teachers, and have run, and the Lord never sent them, &amp;c.</head>
+            <p>NOW it is manifest who hath spoken and speaks in the Name of Jesus since the Apostles dayes; for <hi>Papists</hi> when they had power in this Domi<g ref="char:EOLhyphen"/>nion, then they preached publikely and openly; but when the Popes power was denied by the Common-Prayer men, who made a Law that they should not preach; so then there was a Law that he should shut his mouth; and so come Jesuits not to preach publikely and openly. And so by this you may see the <hi>Papists</hi> and <hi>Jesuits</hi> went in the Name of the Pope, and not of Christ; for the Apo<g ref="char:EOLhyphen"/>stles when they were forbidden to speak no more in the name of Jesus, by the <hi>Jews</hi> counsel, they asked them a question, <hi>Whe<g ref="char:EOLhyphen"/>ther is it lawful to obey God or man, judge ye?</hi> So they went up in<g ref="char:EOLhyphen"/>to the Temple and Synagogue again, and these openly and boldly preached in the Name of Jesus, rejoicing: So men by their Laws and Authority did not open their mouth, nor shut their mouths: So the Pope makes a Law his <hi>Jesuits</hi> must open their mouths, and the Common-prayer-men makes a Law they must shut their mouths, and they obey both; so when they have authority, all are Hereticks but themselves; and then they go in the Name of Jesus: But it's manifest it is the Pope's Name they go in; when power separated them from the Common-prayer-men, they said they went in the Name of Jesus, and preached in his Name. The <hi>Presbyter</hi> he makes a Law, that the
+<pb n="3" facs="tcp:95341:2"/>Common-Prayer-man must stop his mouth, he must preach no more, and he obeys him. So this is contrary to the Apostles in the Name of Jesus, who said, <hi>Is it better to obey God, or man, judge ye?</hi> when they were commanded to speak no more in the name of Christ; and so in the Name of Common-prayer have they gone, which is not Jesus, from which power the Name is sepa<g ref="char:EOLhyphen"/>rated.</p>
+            <p>Thirdly, The <hi>Presbyter</hi> in his mouth is open, and Common-Prayer is shut, all is error but him, and there stand out of his way; he goes in the Name of Jesus, he saith, which is but his <hi>Directory.</hi> And the <hi>Independent</hi> and <hi>Anabaptist</hi> say, We go in the Name of Jesus; and the <hi>Independent</hi> he justles with the <hi>Pres<g ref="char:EOLhyphen"/>byterian,</hi> with his Church-Faith, but hates his Faith he goes in, and the outward power sets it up. And so <hi>Independent</hi> and <hi>Pres<g ref="char:EOLhyphen"/>byterian,</hi> though different in themselves, yet they join together to kill, banish, bruise, stock, whip, spoil goods of such as live the life of Christ, in their day; but these are such as deny the Life of Christ within, and the Spirit of God to reprove, and say every man hath not the Light, nor every man hath not the Spirit: Such their Religion is without the light, and their fel<g ref="char:EOLhyphen"/>lowship and worship is without the Spirit and the Truth. And now Common-prayer-men make a Law, That <hi>Independent, Bap<g ref="char:EOLhyphen"/>tist,</hi> and <hi>Presbyterians</hi> must be silent, and stop their mouths, and speak no more in the name of the Directory and Church-faith; and so <hi>Independent, Baptist</hi> and <hi>Presbyterian</hi> obey it. So one makes a Law they must open their mouths; another makes a Law they must shut their mouths, and yet tell poor people they are sent of God, and thus deceive poor people; and so there are neither <hi>Independent, Baptist</hi> nor <hi>Presbyterian</hi> like the Apostles, who said to the Council when they would have had them speak no more in that Name, <hi>Whether is it meet to obey God or man? judge ye:</hi> So say the poor people; the best way to try Ministers, take away tithes, augmentations, Easter-reckonings, and Midsummer-dues, and then you will see how many Ministers of the Gospel you will have, you will find them but thin; the <hi>Common-Prayer-men, In<g ref="char:EOLhyphen"/>dependent, Baptist</hi> and <hi>Presbyterian,</hi> made us poor people believe they went all in the Name of Christ; and we see now the <hi>Com<g ref="char:EOLhyphen"/>mon-prayer-men</hi> stoppeth the mouth of the <hi>Papist,</hi> who went but in the Name of his Pope and Mass; and <hi>Presbyterian</hi> stopped the
+<pb n="4" facs="tcp:95341:3"/>Common-Prayer-men, who went in the name of it. And now Common-prayer-men stop the mouth of the <hi>Presbyterian, In<g ref="char:EOLhyphen"/>dependent, Baptist,</hi> who went in the name of Directory &amp; Church Faith, and <hi>Independent</hi> and <hi>Baptist,</hi> &amp; not in the name of Christ; the cry would have been, <hi>Shall we obey God or man, judge ye;</hi> and have gone boldly, and spake in the Synagogues. And so Chri<g ref="char:EOLhyphen"/>stians should not stop one anothers mouths; for it was the <hi>Jews</hi> who would have stopped the <hi>Christians</hi> mouths; and they go not in the name of <hi>Christ</hi> who stop one anothers mouths; and they go not in the name of <hi>Christ</hi> whose mouths are stopped.</p>
+            <p>Friends, it is for conscience-sake, &amp; not out of covetousness that we cannot pay tythes; &amp; we are not the <hi>Jews,</hi> that payeth tenth, &amp; denieth Christ come in the flesh; but we are <hi>Christians,</hi> and own Christ come in the flesh, who endeth the <hi>Jews</hi> tenth, and redeemeth us out of the ninth of the earth, and maketh us to reign upon the earth; and so if we do suffer by you, it is for the Lord's truth sake, and conscience towards him, and not for saving the earth, nor covetousness-sake, God is our Wit<g ref="char:EOLhyphen"/>ness; and we leave you to the Lord, that make us to suffer, to deal with you according to your doings, who are so greedy of tenth, &amp; that many are sunk into the Earth, and it hath swal<g ref="char:EOLhyphen"/>lowed up many; and others are grown into such cruelty and hardness of heart, that they value mens lives with the tenth, their gaols and prisons, and to death, and spoiling mens goods, and by them that say they are Ministers of the gospel, &amp; <hi>Chri<g ref="char:EOLhyphen"/>stians,</hi> whom we leave to the Lord to judge, who manifesteth in their works and walkings, to deny <hi>God</hi> and <hi>Christ.</hi>
+            </p>
+            <p>These for all them that take tenth, that they may be warn<g ref="char:EOLhyphen"/>ed and left without excuse.</p>
+            <p>My dear friends, keep out of outward buslings and carnal Weap, ons; but in the Spirit, the fellowship of it, the band of peace in that live, the power of <hi>God,</hi> in which is peace, before wars and strife was; &amp; so in that power live, &amp; know it your por<g ref="char:EOLhyphen"/>tion and inheritance; which power of <hi>God</hi> was before enmity was; &amp; so live in the possession of that power, in which is peace, unity and dominion, over the buslings, warlike Spirit of strife, which is out of the truth.</p>
+            <closer>
+               <dateline>
+                  <date>The 16. of the 8. m. 1662.</date>
+               </dateline>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <pb n="5" facs="tcp:95341:3"/>
+            <head>For all those Ministers whose mouths are open at the command of men; and to all those whose mouths are shut at the commands of men, and give over preaching</head>
+            <p>
+               <hi>O</hi> Sluggards! now is the time come that you are all made mani<g ref="char:EOLhyphen"/>fest: Now all that are not blinded, see you, and see that you are no Ministers of Christ, as you have long made people believe; but now you shew your selves of what race and stock you have proceeded from: Christ said we should know false Prophets by their fruits, and the Hireling would flee when the Wolf came, because he was a Hireling, and cared not for the sheep; and the Apostle said, That such were false Ministers, that served not the Lord Jesus Christ, but their own bellies; and with good words and fair speeches deceived the hearts of the simple; and grievous Wolves should come, not sparing the Flock. And <hi>Isaiah</hi> saw such in his day as you are, and said, the Watch-men were all blind, they had no knowledge, they were all dumb dogs, they could not bark, they lay asleep, and delighted in sleeping; and those greedy dogs could never have enough; they all looked to their own way, and all received their gain from their quarter: And how do you bark now? And <hi>Micah</hi> said, that such teachers as you are, in his day, cry<g ref="char:EOLhyphen"/>ed peace, peace, while they put into their mouths; but those that could not put into their mouths, they prepared war against them, as you have done.</p>
+            <p>Now what say you? you I mean, that are found in such practices as the false Teachers recorded in Scripture were found in; and who have cast your brethren out, and got into their places, and made people believe that God called you into such places, and there to preach, and to beget people unto God: What say you now? do not you appear now to all men, that you are the generation of evil-doers, and wicked Teachers, that have left your Flock, that Christ Jesus said should come, and the A<g ref="char:EOLhyphen"/>postle said would come? Do not your fruits now make you manifest? look behind you in the Gardens you have been in these many years, are they not all grown over with weeds, briars and brambles? And is not that a true sign that you are, and have been sluggards? Have you turned any in your Parishes from darkness to light, and from the power of Satan un<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:95341:4"/>God? Have you not opposed and denied the Light, and hated it, and all those that have preached it, and have denied that all are lighted with it, and so kept people in darkness? Have not many of you now of late given over preaching, because you cannot enjoy, and have that Lega<g ref="char:EOLhyphen"/>cy (tythes) that the Pope gave to all his sons <hi>860.</hi> years after Christ? are not you now like the evening wolves, that have been abroad all the dark night, and have ravened your prey? And now the light of the morn<g ref="char:EOLhyphen"/>ing hath discovered you, you get you away, and lye you down in your dens, and there lye sleeping in your caves with your evil-gotten prey with you, and there you lye fattening of your selves like nasty swine, and there is no necessity laid upon you to preach the Gospel, (which is the Power of God) you neither had, nor have, but run, and the Lord never sent you, and you have never profited the people at all. Oh! let shame for ever co<g ref="char:EOLhyphen"/>ver your faces, who have all your times been enemies to God, to his truth, and to his servants, whom you have alwayes persecuted, whom he sent to gather his Flock off of the hands of you Idol-shepherds, and they shall be no more a prey unto you. Oh ye greedy Hirelings! is this a time for you to give over preaching, because with <hi>Balaam</hi> you cannot have the wa<g ref="char:EOLhyphen"/>ges of unrighteousness? Did ever the true Ministers of the Gospel give over preaching, though the Powers of the Earth forbad them? Or did ever the Ministers of Christ look that the Powers of the Earth should give them maintenance for preaching, by a Law? Or were they set up by them, or put down by them? Did they ever lye down at ease, and sleep, as you sluggards do at this day? Have not those you call <hi>Quakers</hi> pro<g ref="char:EOLhyphen"/>phesied true of you, for they said, that you would preach no longer than the Powers of the Earth gave you your Fathers Legacy (Tythes?) And did they not speak the truth? Some of you get into your close Dens, and there you lie lurking; others of you take up new trades, and so get mo<g ref="char:EOLhyphen"/>ney; but you are resolved to preach no more, except your Masters will again give you your old wages; for being you have received nothing free<g ref="char:EOLhyphen"/>ly to preach, but what you paid for at schools, and at the Universities, you will not give freely; and what Christ allowed his Ministers in the <hi>10th</hi> of <hi>Luke</hi> for preaching, you think that a base and low maintenance for such as you are: Find me one of you that have been falsly called Ministers of Christ, that can approve your selves as the true Ministers of Christ could, and can at this day, whom Christ sent, and doth now send to ga<g ref="char:EOLhyphen"/>ther his Flock out of the world, <hi>2 Cor. 6.4, 5, 6, 7, 8, 9, 10.</hi> which if you have, or can be approved in your Ministry in much patience, in affli<g ref="char:EOLhyphen"/>ctions, in necessities, in distresses, in stripes, in prisons, in
+<pb n="7" facs="tcp:95341:4"/>tumults, in labours, by watchings, by fastings, by purity, by knowledge, by long suffering, by kindness, by the holy Ghost, by love unfeigned, by honor and dishonor, by evil report and good report. Come, stand up blind guides, dare you say there is one of you thus approved? But are not thou<g ref="char:EOLhyphen"/>sands of you proved to be otherwise, to be the unpatientest men in the world, not having the patience to be asked a question, or to prove by Scri<g ref="char:EOLhyphen"/>pture what you have preached, and you have been the greatest persecu<g ref="char:EOLhyphen"/>tors of the people of God, and of his Ministers, of any men in this Na<g ref="char:EOLhyphen"/>tion; as witness the Gaols, and the havock you greedy Hirelings have and do make of mens Estates: And when have any of you been in neces<g ref="char:EOLhyphen"/>sities upon the account of preaching the Gospel? or in distresses, when so many thousands of people have, and do labour hard, and then you rob them of the tenth of their encrease, to keep you in idleness; and so you Lord it over God's Heritage: And how many stripes have you received for preaching? But many of you have encouraged your rude multitude that you have been Teachers of, to whip, stock, stone, and shamefully to abuse the servants of the Lord, when the Lord hath sent them to declare against your false Worship, and deceiving of the people; and many of you Ministers have struck them your selves. And when were any of you in prison for preaching the truth, when men forbad you? But can you tell how many of Gods faithful servants and Ministers you have caused to be cast into prisons and nasty holes, because they could not for conscience-sake put into your mouths; and there have kept many of them till death. And what have your watchings been? for nothing but to get into fat bene<g ref="char:EOLhyphen"/>fites, and for the Fleece, Pigs, Eggs, and such things that the Pope gave you. And for your purity, if the false Prophets recorded in Scripture, walked in purity, then you have walked in purity; for in the false Pro<g ref="char:EOLhyphen"/>phets steps you are found walking, and you have exceeded in wickedness all the false Prophets that ever we read of; and therefore ungodly men you are, and all that fear the Lord are turned from you, &amp; see you clear<g ref="char:EOLhyphen"/>ly to be such false Teachers which Christ and his Apostles said should come in the latter days, and your fruits have made you manifest; there<g ref="char:EOLhyphen"/>fore to all you that are changeable Ministers, whose mouths are open at the command of men, and whose mouths are shut at the commands of men, and that will not bark except you have such yearly revenues, and that will not preach upon those terms that Christ allowed his Ministers in the <hi>10th.</hi> of <hi>Luke:</hi> I say to all of you, Repent of your former wick<g ref="char:EOLhyphen"/>ed ways, and restore as far as you are able, to those you have unjustly ta<g ref="char:EOLhyphen"/>ken from, lest the Lord cut you off, and give you your portion with the
+<pb n="8" facs="tcp:95341:5"/>Beast that you have so long rode upon; for the Lords controversie is now begun with you, and now the Whore is stripped of her gaudy attire, and her skirts are uncovered, and her nakedness is seen, and a bed of torment she is cast upon, and the Lamb and his followers shall have the victory over her for evermore. Praises to the Lord God for ever. And is not your cup given to you, as you have given to others? And how do you preach now, as the Apostles said, in season and out of season? Did not you tell people that God had made you overseers of your Flocks, and also told ma<g ref="char:EOLhyphen"/>ny of us so? And have you now left your own Flock, and let them run where they will, and be scattered, and let what will come among them? Will not this be a heavy thing upon you one day? And are not you judged of all people out of your own mouths?</p>
+            <q>
+               <l>Arise ye men, out of your den, have you given over preaching?</l>
+               <l>Are you so blind, you cannot find there is no need of teaching?</l>
+               <l>What have you seen a Wolf so keen, that you run thus away?</l>
+               <l>A shepherd good, wil lay down's blood, &amp; with his flock wil stay.</l>
+               <l>O sleepy men! I say agen, your fields with weeds are cover'd?</l>
+               <l>When ye should have wrought, ye have done nought, &amp; Light hath you discover'd</l>
+               <l>To be the men that would agen, against the Lamb go fight</l>
+               <l>With carnal <hi>Sword,</hi> but not with <hi>Word,</hi> that puts you to a fright.</l>
+               <l>A night ye have had, wherein ye were glad, because your prey you found;</l>
+               <l>But a <hi>morning</hi> is sprung, &amp; <hi>light</hi> is come, &amp; now ye're in a sound.</l>
+               <l>For <hi>God</hi> hath rais'd his <hi>Seed</hi> most dear, upon the heads to stand</l>
+               <l>Of Prophets false, &amp; <hi>Beast</hi> so great, &amp; <hi>hireling-priests</hi> i'th' Land:</l>
+               <l>And down they must into the Pit from whence they have as<g ref="char:EOLhyphen"/>scended:</l>
+               <l>But the Saints shall sing unto their <hi>King, Halelujahs never ended.</hi>
+               </l>
+            </q>
+            <byline>Francis Ellington.</byline>
+            <trailer>THE END:</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
